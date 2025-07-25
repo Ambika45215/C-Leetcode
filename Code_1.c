@@ -10,5 +10,5 @@ int main(){
     else{
         printf("x is not equal to 1");
     }
-    return 0;
+    return 0; //tells the operating system that "Program finished successfully". 
 }
